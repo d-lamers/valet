@@ -29,7 +29,7 @@
         "mnapoli/silly": "~1.0",
         "symfony/process": "~2.7|~3.0",
         "nategood/httpful": "~0.2",
-        "tightenco/collect": "^5.3"
+        "tightenco/collect": "~5.4.33"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",
